@@ -21,6 +21,8 @@ Finally, run `npm run develop` to launch the application on your local computer.
 
 ## Usage
 
+![image](https://user-images.githubusercontent.com/88918693/151248887-15d1353a-614d-4302-89a1-367e392d5d73.png)
+
 ## License
 This project is licensed under the MIT
 
