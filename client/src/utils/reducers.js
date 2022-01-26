@@ -20,14 +20,16 @@ const initialState = {
   };
 
 
-export const reducer = (state = initialState, action) => {
+const reducer = (state = initialState, action) => {
   switch (action.type) {
+    
     case UPDATE_PRODUCTS:
       return {
         ...state,
         products: [...action.products],
       };
-
+    
+     
     case ADD_TO_CART:
       return {
         ...state,
